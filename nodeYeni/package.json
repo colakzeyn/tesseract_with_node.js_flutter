@@ -1,0 +1,16 @@
+{
+  "name": "nodeyeni",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-tesseract-ocr": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zeynep",
+  "license": "ISC"
+}
